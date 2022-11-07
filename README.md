@@ -1,1 +1,3 @@
 # Air Quality Spatial Analysis
+
+El paquete ```airQSA``` ofrece al usuario con conjunto de herramientas para conectar y obtener datos de calidad del aire de la CDMX. Permite obtener datos de diferentes contaminantes en diferentes marcos temporales y la ubicación espacial. Ofrece módulos para realizar distintos geoprocesos para análisis espacial y finalmente, ofrece módulos para realizar diferentes visualizaciones.
